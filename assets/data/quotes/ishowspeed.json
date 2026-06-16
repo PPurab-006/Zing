@@ -1,0 +1,27 @@
+{
+  "creator_id": "ishowspeed",
+  "creator_name": "IShowSpeed",
+  "category": "streamer",
+  "quotes": [
+    {"id": "speed_001", "text": "SPEED IS THE BEST!", "tags": ["iconic", "funny", "catchphrase", "confident"], "language": "en", "source": {"video_title": "IShowSpeed Stream", "youtube_url": "https://www.youtube.com/@IShowSpeed"}},
+    {"id": "speed_002", "text": "I love this game! I HATE this game!", "tags": ["iconic", "funny", "reaction", "gaming"], "language": "en", "source": {"video_title": "IShowSpeed Gaming Moments", "youtube_url": "https://www.youtube.com/@IShowSpeed"}},
+    {"id": "speed_003", "text": "Ronaldo is the best player of all time. I will die on this hill.", "tags": ["iconic", "funny", "confident", "sports"], "language": "en", "source": {"video_title": "IShowSpeed Ronaldo", "youtube_url": "https://www.youtube.com/@IShowSpeed"}},
+    {"id": "speed_004", "text": "I went from 0 to a million subscribers and I still can't believe it's real.", "tags": ["heartfelt", "honest", "emotional", "motivational"], "language": "en", "source": {"video_title": "IShowSpeed Milestone", "youtube_url": "https://www.youtube.com/@IShowSpeed"}},
+    {"id": "speed_005", "text": "Every country I go to, people love me. That tells me the world is more connected than we think.", "tags": ["deep", "heartfelt", "community", "global"], "language": "en", "source": {"video_title": "IShowSpeed World Tour", "youtube_url": "https://www.youtube.com/@IShowSpeed"}},
+    {"id": "speed_006", "text": "I don't play video games to be calm. I play to feel things.", "tags": ["honest", "funny", "iconic", "gaming"], "language": "en", "source": {"video_title": "IShowSpeed Stream", "youtube_url": "https://www.youtube.com/@IShowSpeed"}},
+    {"id": "speed_007", "text": "Bro I am literally shaking right now.", "tags": ["iconic", "funny", "reaction", "relatable"], "language": "en", "source": {"video_title": "IShowSpeed Moments", "youtube_url": "https://www.youtube.com/@IShowSpeed"}},
+    {"id": "speed_008", "text": "I cried when I met Ronaldo. I'm not ashamed. He's my hero.", "tags": ["emotional", "heartfelt", "honest", "iconic"], "language": "en", "source": {"video_title": "IShowSpeed Meets Ronaldo", "youtube_url": "https://www.youtube.com/@IShowSpeed"}},
+    {"id": "speed_009", "text": "1 million viewers in Indonesia. I had to pinch myself.", "tags": ["iconic", "heartfelt", "legendary", "community"], "language": "en", "source": {"video_title": "IShowSpeed Indonesia Stream", "youtube_url": "https://www.youtube.com/@IShowSpeed"}},
+    {"id": "speed_010", "text": "I'm not just a streamer. I'm a movement.", "tags": ["iconic", "confident", "funny", "deep"], "language": "en", "source": {"video_title": "IShowSpeed Interview", "youtube_url": "https://www.youtube.com/@IShowSpeed"}},
+    {"id": "speed_011", "text": "They told me I was too loud. I got louder.", "tags": ["motivational", "iconic", "honest", "confident"], "language": "en", "source": {"video_title": "IShowSpeed Interview", "youtube_url": "https://www.youtube.com/@IShowSpeed"}},
+    {"id": "speed_012", "text": "NOOOOOOOO!", "tags": ["iconic", "funny", "reaction", "catchphrase"], "language": "en", "source": {"video_title": "IShowSpeed Gaming", "youtube_url": "https://www.youtube.com/@IShowSpeed"}},
+    {"id": "speed_013", "text": "My mom supported me when nobody watched. She's the real MVP.", "tags": ["heartfelt", "emotional", "family", "honest"], "language": "en", "source": {"video_title": "IShowSpeed Stream", "youtube_url": "https://www.youtube.com/@IShowSpeed"}},
+    {"id": "speed_014", "text": "Football is life. Gaming is life. Music is life. I contain multitudes.", "tags": ["funny", "deep", "identity", "iconic"], "language": "en", "source": {"video_title": "IShowSpeed Stream", "youtube_url": "https://www.youtube.com/@IShowSpeed"}},
+    {"id": "speed_015", "text": "The energy I give is the energy I get back. Always.", "tags": ["deep", "motivational", "community", "life-advice"], "language": "en", "source": {"video_title": "IShowSpeed Interview", "youtube_url": "https://www.youtube.com/@IShowSpeed"}},
+    {"id": "speed_016", "text": "I was suspended from school for streaming. Look at me now.", "tags": ["funny", "iconic", "motivational", "honest"], "language": "en", "source": {"video_title": "IShowSpeed Origin Story", "youtube_url": "https://www.youtube.com/@IShowSpeed"}},
+    {"id": "speed_017", "text": "W!", "tags": ["iconic", "funny", "catchphrase", "gaming"], "language": "en", "source": {"video_title": "IShowSpeed Stream", "youtube_url": "https://www.youtube.com/@IShowSpeed"}},
+    {"id": "speed_018", "text": "People think I'm always angry. I'm not angry. I'm passionate. There's a difference.", "tags": ["honest", "funny", "identity", "deep"], "language": "en", "source": {"video_title": "IShowSpeed Interview", "youtube_url": "https://www.youtube.com/@IShowSpeed"}},
+    {"id": "speed_019", "text": "The world is watching. I better make it worth their time.", "tags": ["deep", "motivational", "honest", "dedication"], "language": "en", "source": {"video_title": "IShowSpeed Stream", "youtube_url": "https://www.youtube.com/@IShowSpeed"}},
+    {"id": "speed_020", "text": "Chat I love you. Even when you're cooked. Especially when you're cooked.", "tags": ["heartfelt", "funny", "community", "iconic"], "language": "en", "source": {"video_title": "IShowSpeed Stream Outro", "youtube_url": "https://www.youtube.com/@IShowSpeed"}}
+  ]
+}

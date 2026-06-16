@@ -1,0 +1,207 @@
+{
+  "creator_id": "markiplier",
+  "creator_name": "Markiplier",
+  "category": "youtuber",
+  "quotes": [
+    {
+      "id": "mark_001",
+      "text": "Hello everybody, my name is Markiplier and welcome to...",
+      "tags": ["iconic", "intro"],
+      "language": "en",
+      "source": {
+        "video_title": "Five Nights at Freddy's - Part 1",
+        "youtube_url": "https://www.youtube.com/watch?v=UD4HBkvbAiY"
+      }
+    },
+    {
+      "id": "mark_002",
+      "text": "And as always, I will see you in the next video. Buh-bye!",
+      "tags": ["iconic", "outro"],
+      "language": "en",
+      "source": {
+        "video_title": "Markiplier Outro",
+        "youtube_url": "https://www.youtube.com/c/markiplier"
+      }
+    },
+    {
+      "id": "mark_003",
+      "text": "The most amazing thing isn't that I've helped people. The most amazing thing is that you guys saved me.",
+      "tags": ["emotional", "community", "heartfelt"],
+      "language": "en",
+      "source": {
+        "video_title": "A Date With Markiplier",
+        "youtube_url": "https://www.youtube.com/watch?v=_nBHBL3oDMY"
+      }
+    },
+    {
+      "id": "mark_004",
+      "text": "What I do is temporary but what I leave behind is forever.",
+      "tags": ["deep", "legacy"],
+      "language": "en",
+      "source": {
+        "video_title": "Markiplier Quotes",
+        "youtube_url": "https://www.youtube.com/c/markiplier"
+      }
+    },
+    {
+      "id": "mark_005",
+      "text": "Never give up, no matter what may set you back, and know that at the end of the road, you're going to have something that you can be proud of.",
+      "tags": ["motivational", "resilience"],
+      "language": "en",
+      "source": {
+        "video_title": "Markiplier Speech",
+        "youtube_url": "https://www.youtube.com/c/markiplier"
+      }
+    },
+    {
+      "id": "mark_006",
+      "text": "You do you, I'll do me, and we won't do each other. Probably.",
+      "tags": ["funny", "iconic"],
+      "language": "en",
+      "source": {
+        "video_title": "Markiplier Funny Moments",
+        "youtube_url": "https://www.youtube.com/c/markiplier"
+      }
+    },
+    {
+      "id": "mark_007",
+      "text": "I just gotta not suck; which is hard, considering exactly who I am.",
+      "tags": ["funny", "relatable", "self-deprecating"],
+      "language": "en",
+      "source": {
+        "video_title": "Markiplier Funny Moments",
+        "youtube_url": "https://www.youtube.com/c/markiplier"
+      }
+    },
+    {
+      "id": "mark_008",
+      "text": "To be or not to fuck off!",
+      "tags": ["funny", "iconic", "shakespeare"],
+      "language": "en",
+      "source": {
+        "video_title": "Amnesia: A Machine For Pigs",
+        "youtube_url": "https://www.youtube.com/c/markiplier"
+      }
+    },
+    {
+      "id": "mark_009",
+      "text": "Together, we make two halves of a whole idiot.",
+      "tags": ["funny", "community", "collab"],
+      "language": "en",
+      "source": {
+        "video_title": "Markiplier Collab Moments",
+        "youtube_url": "https://www.youtube.com/c/markiplier"
+      }
+    },
+    {
+      "id": "mark_010",
+      "text": "I live to make you smile. And there's nothing I'd rather do.",
+      "tags": ["heartfelt", "community"],
+      "language": "en",
+      "source": {
+        "video_title": "Markiplier Heartfelt Moments",
+        "youtube_url": "https://www.youtube.com/c/markiplier"
+      }
+    },
+    {
+      "id": "mark_011",
+      "text": "You go to hell and you die!",
+      "tags": ["funny", "iconic", "gaming"],
+      "language": "en",
+      "source": {
+        "video_title": "Markiplier Horror Games",
+        "youtube_url": "https://www.youtube.com/c/markiplier"
+      }
+    },
+    {
+      "id": "mark_012",
+      "text": "I'm a baby! I'm a big baby! I WANT MY MOMMY!",
+      "tags": ["funny", "horror", "iconic"],
+      "language": "en",
+      "source": {
+        "video_title": "Five Nights at Freddy's",
+        "youtube_url": "https://www.youtube.com/watch?v=UD4HBkvbAiY"
+      }
+    },
+    {
+      "id": "mark_013",
+      "text": "Sometimes you must reach beyond yourself to reach yourself within... yourself.",
+      "tags": ["deep", "philosophical", "funny"],
+      "language": "en",
+      "source": {
+        "video_title": "Markiplier Deep Thoughts",
+        "youtube_url": "https://www.youtube.com/c/markiplier"
+      }
+    },
+    {
+      "id": "mark_014",
+      "text": "I'm not trying to be worse! I'm trying to be gooder!",
+      "tags": ["funny", "relatable", "gaming"],
+      "language": "en",
+      "source": {
+        "video_title": "Markiplier Funny Moments",
+        "youtube_url": "https://www.youtube.com/c/markiplier"
+      }
+    },
+    {
+      "id": "mark_015",
+      "text": "Excuse me? 'SCUSE ME?!",
+      "tags": ["funny", "iconic", "reaction"],
+      "language": "en",
+      "source": {
+        "video_title": "Markiplier Reactions",
+        "youtube_url": "https://www.youtube.com/c/markiplier"
+      }
+    },
+    {
+      "id": "mark_016",
+      "text": "Never stop trying new things. The world is open to you but it won't be handed to you.",
+      "tags": ["motivational", "life-advice"],
+      "language": "en",
+      "source": {
+        "video_title": "Markiplier Life Advice",
+        "youtube_url": "https://www.youtube.com/c/markiplier"
+      }
+    },
+    {
+      "id": "mark_017",
+      "text": "Meeting people is probably the best skill that you could possibly ever learn.",
+      "tags": ["life-advice", "social", "wisdom"],
+      "language": "en",
+      "source": {
+        "video_title": "Markiplier Life Advice",
+        "youtube_url": "https://www.youtube.com/c/markiplier"
+      }
+    },
+    {
+      "id": "mark_018",
+      "text": "That's cool and all but also screw you.",
+      "tags": ["funny", "relatable"],
+      "language": "en",
+      "source": {
+        "video_title": "Markiplier Funny Moments",
+        "youtube_url": "https://www.youtube.com/c/markiplier"
+      }
+    },
+    {
+      "id": "mark_019",
+      "text": "I thought I was fast but it turns out I'm dead.",
+      "tags": ["funny", "gaming", "relatable"],
+      "language": "en",
+      "source": {
+        "video_title": "Markiplier Gaming Moments",
+        "youtube_url": "https://www.youtube.com/c/markiplier"
+      }
+    },
+    {
+      "id": "mark_020",
+      "text": "Hello new world, how's it going? I'm here to wreck everything.",
+      "tags": ["funny", "iconic", "entrance"],
+      "language": "en",
+      "source": {
+        "video_title": "Markiplier Iconic Moments",
+        "youtube_url": "https://www.youtube.com/c/markiplier"
+      }
+    }
+  ]
+}

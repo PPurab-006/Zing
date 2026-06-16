@@ -1,0 +1,27 @@
+{
+  "creator_id": "tommyinnit",
+  "creator_name": "TommyInnit",
+  "category": "youtuber",
+  "quotes": [
+    {"id": "tommy_001", "text": "I am the most famous Minecraft player in the world!", "tags": ["iconic", "funny", "confident", "catchphrase"], "language": "en", "source": {"video_title": "TommyInnit Stream", "youtube_url": "https://www.youtube.com/@TommyInnit"}},
+    {"id": "tommy_002", "text": "This is the greatest day of my entire life!", "tags": ["iconic", "funny", "reaction", "catchphrase"], "language": "en", "source": {"video_title": "TommyInnit Moments", "youtube_url": "https://www.youtube.com/@TommyInnit"}},
+    {"id": "tommy_003", "text": "BIG MAN TOMMY!", "tags": ["iconic", "funny", "catchphrase", "community"], "language": "en", "source": {"video_title": "TommyInnit Stream", "youtube_url": "https://www.youtube.com/@TommyInnit"}},
+    {"id": "tommy_004", "text": "I was 16 when millions of people started watching me. That's mad when you think about it.", "tags": ["honest", "deep", "relatable", "emotional"], "language": "en", "source": {"video_title": "TommyInnit Interview", "youtube_url": "https://www.youtube.com/@TommyInnit"}},
+    {"id": "tommy_005", "text": "POG!", "tags": ["iconic", "funny", "catchphrase", "gaming"], "language": "en", "source": {"video_title": "TommyInnit Stream", "youtube_url": "https://www.youtube.com/@TommyInnit"}},
+    {"id": "tommy_006", "text": "Wilbur said I'd be big. I didn't believe him. He was right.", "tags": ["heartfelt", "honest", "community", "emotional"], "language": "en", "source": {"video_title": "TommyInnit Stream", "youtube_url": "https://www.youtube.com/@TommyInnit"}},
+    {"id": "tommy_007", "text": "People underestimate me constantly. I use that.", "tags": ["motivational", "confident", "deep"], "language": "en", "source": {"video_title": "TommyInnit Interview", "youtube_url": "https://www.youtube.com/@TommyInnit"}},
+    {"id": "tommy_008", "text": "The Dream SMP changed my life. I don't think I'll ever fully wrap my head around it.", "tags": ["emotional", "deep", "legacy", "heartfelt"], "language": "en", "source": {"video_title": "TommyInnit Reflection", "youtube_url": "https://www.youtube.com/@TommyInnit"}},
+    {"id": "tommy_009", "text": "I just want to make people laugh. Everything else is secondary.", "tags": ["heartfelt", "honest", "community", "deep"], "language": "en", "source": {"video_title": "TommyInnit Interview", "youtube_url": "https://www.youtube.com/@TommyInnit"}},
+    {"id": "tommy_010", "text": "Being young and loud on the internet is a superpower until it isn't. Balance is real.", "tags": ["honest", "deep", "wisdom", "relatable"], "language": "en", "source": {"video_title": "TommyInnit Interview", "youtube_url": "https://www.youtube.com/@TommyInnit"}},
+    {"id": "tommy_011", "text": "I'm not as dumb as I sound. I'm dumber.", "tags": ["funny", "self-deprecating", "iconic", "relatable"], "language": "en", "source": {"video_title": "TommyInnit Stream", "youtube_url": "https://www.youtube.com/@TommyInnit"}},
+    {"id": "tommy_012", "text": "Growing up online is weird. You grow up and millions of strangers grow up with you.", "tags": ["deep", "emotional", "honest", "community"], "language": "en", "source": {"video_title": "TommyInnit Reflection", "youtube_url": "https://www.youtube.com/@TommyInnit"}},
+    {"id": "tommy_013", "text": "WHAT IS GOING ONNN?!", "tags": ["iconic", "funny", "reaction", "catchphrase"], "language": "en", "source": {"video_title": "TommyInnit Gaming Moments", "youtube_url": "https://www.youtube.com/@TommyInnit"}},
+    {"id": "tommy_014", "text": "I put everything into my videos. If it's not fun for me it won't be fun for you.", "tags": ["honest", "creative", "deep", "dedication"], "language": "en", "source": {"video_title": "TommyInnit Interview", "youtube_url": "https://www.youtube.com/@TommyInnit"}},
+    {"id": "tommy_015", "text": "Techno was my friend. Not just a character. Actually my friend.", "tags": ["emotional", "heartfelt", "deep", "legacy"], "language": "en", "source": {"video_title": "TommyInnit on Technoblade", "youtube_url": "https://www.youtube.com/@TommyInnit"}},
+    {"id": "tommy_016", "text": "I started YouTube at 14. My mum didn't really know what I was doing. She does now.", "tags": ["funny", "heartfelt", "relatable", "honest"], "language": "en", "source": {"video_title": "TommyInnit Interview", "youtube_url": "https://www.youtube.com/@TommyInnit"}},
+    {"id": "tommy_017", "text": "Never let anyone tell you that what you love is stupid. Minecraft got me here.", "tags": ["motivational", "deep", "identity", "life-advice"], "language": "en", "source": {"video_title": "TommyInnit Speech", "youtube_url": "https://www.youtube.com/@TommyInnit"}},
+    {"id": "tommy_018", "text": "I am a child!", "tags": ["iconic", "funny", "catchphrase", "relatable"], "language": "en", "source": {"video_title": "TommyInnit Stream", "youtube_url": "https://www.youtube.com/@TommyInnit"}},
+    {"id": "tommy_019", "text": "Mental health matters. Even if you're loud and seem fine. Especially then.", "tags": ["deep", "mental-health", "emotional", "honest"], "language": "en", "source": {"video_title": "TommyInnit Mental Health", "youtube_url": "https://www.youtube.com/@TommyInnit"}},
+    {"id": "tommy_020", "text": "Bye everyone. This has been the best stream of my entire life.", "tags": ["iconic", "funny", "outro", "catchphrase"], "language": "en", "source": {"video_title": "TommyInnit Stream", "youtube_url": "https://www.youtube.com/@TommyInnit"}}
+  ]
+}

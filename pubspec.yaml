@@ -1,0 +1,111 @@
+name: zing
+description: An open only you place. Zing only gives, never takes.
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # Local database - fast, local, no backend
+  hive: ^2.2.3
+  hive_flutter: ^1.1.0
+
+  # Dependency injection
+  get_it: ^7.6.4
+
+  # State management
+  flutter_riverpod: ^2.4.9
+
+  # Widget support
+  home_widget: ^0.4.1
+
+  # Notifications
+  flutter_local_notifications: ^17.0.0
+
+  # URL launcher (open YouTube source videos)
+  url_launcher: ^6.2.4
+
+  # Shared preferences (lightweight settings)
+  shared_preferences: ^2.2.2
+
+  # UUID for quote IDs
+  uuid: ^4.3.3
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  hive_generator: ^2.0.1
+  build_runner: ^2.4.8
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/data/creators.json
+    - assets/data/quotes/
+    - assets/images/avatars/
+
+  fonts:
+    # ── Quote fonts (expressive) ──────────────────────────────────────────────
+    - family: PlayfairDisplay
+      fonts:
+        - asset: assets/fonts/PlayfairDisplay-Regular.ttf
+        - asset: assets/fonts/PlayfairDisplay-Bold.ttf
+          weight: 700
+        - asset: assets/fonts/PlayfairDisplay-Italic.ttf
+          style: italic
+
+    - family: Lora
+      fonts:
+        - asset: assets/fonts/Lora-Regular.ttf
+        - asset: assets/fonts/Lora-Bold.ttf
+          weight: 700
+        - asset: assets/fonts/Lora-Italic.ttf
+          style: italic
+
+    - family: DMSerifDisplay
+      fonts:
+        - asset: assets/fonts/DMSerifDisplay-Regular.ttf
+        - asset: assets/fonts/DMSerifDisplay-Italic.ttf
+          style: italic
+
+    - family: CormorantGaramond
+      fonts:
+        - asset: assets/fonts/CormorantGaramond-Regular.ttf
+        - asset: assets/fonts/CormorantGaramond-Bold.ttf
+          weight: 700
+        - asset: assets/fonts/CormorantGaramond-Italic.ttf
+          style: italic
+
+    - family: Fraunces
+      fonts:
+        - asset: assets/fonts/Fraunces-Regular.ttf
+        - asset: assets/fonts/Fraunces-Bold.ttf
+          weight: 700
+        - asset: assets/fonts/Fraunces-Italic.ttf
+          style: italic
+
+    # ── UI fonts (clean) ──────────────────────────────────────────────────────
+    - family: Inter
+      fonts:
+        - asset: assets/fonts/Inter-Regular.ttf
+        - asset: assets/fonts/Inter-Bold.ttf
+          weight: 700
+
+    - family: DMSans
+      fonts:
+        - asset: assets/fonts/DMSans-Regular.ttf
+        - asset: assets/fonts/DMSans-Bold.ttf
+          weight: 700
+
+    - family: SpaceGrotesk
+      fonts:
+        - asset: assets/fonts/SpaceGrotesk-Regular.ttf
+        - asset: assets/fonts/SpaceGrotesk-Bold.ttf
+          weight: 700

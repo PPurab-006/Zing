@@ -1,0 +1,207 @@
+{
+  "creator_id": "technoblade",
+  "creator_name": "Technoblade",
+  "category": "youtuber",
+  "quotes": [
+    {
+      "id": "techno_001",
+      "text": "Technoblade never dies.",
+      "tags": ["iconic", "legendary", "community"],
+      "language": "en",
+      "source": {
+        "video_title": "Technoblade - Iconic Moments",
+        "youtube_url": "https://www.youtube.com/c/Technoblade"
+      }
+    },
+    {
+      "id": "techno_002",
+      "text": "If I had a dollar for every time I died in Minecraft, I'd have like six dollars.",
+      "tags": ["funny", "iconic", "minecraft"],
+      "language": "en",
+      "source": {
+        "video_title": "Technoblade Funny Moments",
+        "youtube_url": "https://www.youtube.com/c/Technoblade"
+      }
+    },
+    {
+      "id": "techno_003",
+      "text": "I am a genius. Oh wait, I'm also dead.",
+      "tags": ["funny", "self-deprecating", "gaming"],
+      "language": "en",
+      "source": {
+        "video_title": "Technoblade Gaming Moments",
+        "youtube_url": "https://www.youtube.com/c/Technoblade"
+      }
+    },
+    {
+      "id": "techno_004",
+      "text": "Hi, I'm Technoblade. You may know me from a little game called Minecraft, where I am undefeated.",
+      "tags": ["iconic", "confident", "intro"],
+      "language": "en",
+      "source": {
+        "video_title": "Technoblade Introduction",
+        "youtube_url": "https://www.youtube.com/c/Technoblade"
+      }
+    },
+    {
+      "id": "techno_005",
+      "text": "I'm not going to sugarcoat it — this game is rigged.",
+      "tags": ["funny", "relatable", "gaming"],
+      "language": "en",
+      "source": {
+        "video_title": "Technoblade Gaming Moments",
+        "youtube_url": "https://www.youtube.com/c/Technoblade"
+      }
+    },
+    {
+      "id": "techno_006",
+      "text": "Blood for the Blood God.",
+      "tags": ["iconic", "catchphrase", "community"],
+      "language": "en",
+      "source": {
+        "video_title": "Technoblade Catchphrases",
+        "youtube_url": "https://www.youtube.com/c/Technoblade"
+      }
+    },
+    {
+      "id": "techno_007",
+      "text": "I don't lose. I just sometimes fail to win.",
+      "tags": ["funny", "iconic", "mindset"],
+      "language": "en",
+      "source": {
+        "video_title": "Technoblade Iconic Lines",
+        "youtube_url": "https://www.youtube.com/c/Technoblade"
+      }
+    },
+    {
+      "id": "techno_008",
+      "text": "If you're not first, you're last. Unless you're me, and then you're always first.",
+      "tags": ["funny", "confident", "iconic"],
+      "language": "en",
+      "source": {
+        "video_title": "Technoblade Competitive Moments",
+        "youtube_url": "https://www.youtube.com/c/Technoblade"
+      }
+    },
+    {
+      "id": "techno_009",
+      "text": "Dreams do come true, kids. Specifically, my dream of beating everyone.",
+      "tags": ["funny", "confident", "iconic"],
+      "language": "en",
+      "source": {
+        "video_title": "Technoblade Iconic Moments",
+        "youtube_url": "https://www.youtube.com/c/Technoblade"
+      }
+    },
+    {
+      "id": "techno_010",
+      "text": "This is fine.",
+      "tags": ["funny", "relatable", "chaos"],
+      "language": "en",
+      "source": {
+        "video_title": "Technoblade Chaos Moments",
+        "youtube_url": "https://www.youtube.com/c/Technoblade"
+      }
+    },
+    {
+      "id": "techno_011",
+      "text": "You guys are not going to believe what happened. I won.",
+      "tags": ["funny", "iconic", "victory"],
+      "language": "en",
+      "source": {
+        "video_title": "Technoblade Victory Moments",
+        "youtube_url": "https://www.youtube.com/c/Technoblade"
+      }
+    },
+    {
+      "id": "techno_012",
+      "text": "When given the choice between doing something and not doing something, choose violence.",
+      "tags": ["funny", "iconic", "chaos"],
+      "language": "en",
+      "source": {
+        "video_title": "Technoblade Iconic Lines",
+        "youtube_url": "https://www.youtube.com/c/Technoblade"
+      }
+    },
+    {
+      "id": "techno_013",
+      "text": "I have conquered the pigs. I am the pig overlord.",
+      "tags": ["funny", "iconic", "minecraft"],
+      "language": "en",
+      "source": {
+        "video_title": "Technoblade Minecraft Moments",
+        "youtube_url": "https://www.youtube.com/c/Technoblade"
+      }
+    },
+    {
+      "id": "techno_014",
+      "text": "Hello, I am Technoblade, and I am here to ruin your day.",
+      "tags": ["funny", "iconic", "entrance"],
+      "language": "en",
+      "source": {
+        "video_title": "Technoblade Iconic Entrances",
+        "youtube_url": "https://www.youtube.com/c/Technoblade"
+      }
+    },
+    {
+      "id": "techno_015",
+      "text": "Swine before pearls.",
+      "tags": ["iconic", "catchphrase", "pun"],
+      "language": "en",
+      "source": {
+        "video_title": "Technoblade Catchphrases",
+        "youtube_url": "https://www.youtube.com/c/Technoblade"
+      }
+    },
+    {
+      "id": "techno_016",
+      "text": "The thing about Minecraft is, it's not about what you build. It's about who you destroy.",
+      "tags": ["funny", "iconic", "minecraft"],
+      "language": "en",
+      "source": {
+        "video_title": "Technoblade Philosophy",
+        "youtube_url": "https://www.youtube.com/c/Technoblade"
+      }
+    },
+    {
+      "id": "techno_017",
+      "text": "I am inevitable.",
+      "tags": ["iconic", "confident", "legendary"],
+      "language": "en",
+      "source": {
+        "video_title": "Technoblade Iconic Moments",
+        "youtube_url": "https://www.youtube.com/c/Technoblade"
+      }
+    },
+    {
+      "id": "techno_018",
+      "text": "Orphan obliterator.",
+      "tags": ["iconic", "catchphrase", "dark-humor"],
+      "language": "en",
+      "source": {
+        "video_title": "Technoblade Minecraft",
+        "youtube_url": "https://www.youtube.com/c/Technoblade"
+      }
+    },
+    {
+      "id": "techno_019",
+      "text": "I'm not a villain. I'm just someone who has yet to find the right opportunity to be a hero.",
+      "tags": ["funny", "iconic", "character"],
+      "language": "en",
+      "source": {
+        "video_title": "Technoblade Character Moments",
+        "youtube_url": "https://www.youtube.com/c/Technoblade"
+      }
+    },
+    {
+      "id": "techno_020",
+      "text": "Hi. I just wanted to say goodbye, and also Technoblade never dies. Alright, see ya.",
+      "tags": ["legendary", "emotional", "farewell", "iconic"],
+      "language": "en",
+      "source": {
+        "video_title": "Technoblade's Final Video",
+        "youtube_url": "https://www.youtube.com/watch?v=KN9BPQYIDhE"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "creator_id": "ibai",
+  "creator_name": "Ibai",
+  "category": "streamer",
+  "quotes": [
+    {"id": "ibai_001", "text": "¡Buenas, buenas!", "tags": ["iconic", "intro", "spanish", "catchphrase"], "language": "es", "source": {"video_title": "Ibai Stream", "youtube_url": "https://www.youtube.com/@ibai"}},
+    {"id": "ibai_002", "text": "Football and streaming share one thing — the crowd makes the moment.", "tags": ["deep", "sports", "community", "wisdom"], "language": "en", "source": {"video_title": "Ibai Interview", "youtube_url": "https://www.youtube.com/@ibai"}},
+    {"id": "ibai_003", "text": "I left G2 to start something of my own. People thought I was crazy. KOI exists now.", "tags": ["motivational", "iconic", "honest", "deep"], "language": "en", "source": {"video_title": "Ibai KOI Announcement", "youtube_url": "https://www.youtube.com/@ibai"}},
+    {"id": "ibai_004", "text": "La Velada del Año was a crazy idea. We did it anyway. Four times.", "tags": ["iconic", "motivational", "community", "legendary"], "language": "en", "source": {"video_title": "Ibai La Velada del Año", "youtube_url": "https://www.youtube.com/@ibai"}},
+    {"id": "ibai_005", "text": "Being funny is a superpower. Never underestimate making someone laugh.", "tags": ["deep", "funny", "wisdom", "life-advice"], "language": "en", "source": {"video_title": "Ibai Interview", "youtube_url": "https://www.youtube.com/@ibai"}},
+    {"id": "ibai_006", "text": "Messi watched one of my streams. I still do not believe it.", "tags": ["iconic", "funny", "heartfelt", "legendary"], "language": "en", "source": {"video_title": "Ibai Messi Stream", "youtube_url": "https://www.youtube.com/@ibai"}},
+    {"id": "ibai_007", "text": "Spain has a streaming culture now. We built it together.", "tags": ["deep", "community", "identity", "heartfelt"], "language": "en", "source": {"video_title": "Ibai Interview", "youtube_url": "https://www.youtube.com/@ibai"}},
+    {"id": "ibai_008", "text": "I am just a guy who talks a lot. Turns out that is enough.", "tags": ["funny", "honest", "relatable", "iconic"], "language": "en", "source": {"video_title": "Ibai Stream", "youtube_url": "https://www.youtube.com/@ibai"}},
+    {"id": "ibai_009", "text": "Community is the product. The stream is just the delivery.", "tags": ["deep", "wisdom", "community", "creative"], "language": "en", "source": {"video_title": "Ibai Interview", "youtube_url": "https://www.youtube.com/@ibai"}},
+    {"id": "ibai_010", "text": "Piqué believed in Kosmos. I believed in KOI. The difference is I am still at it.", "tags": ["funny", "iconic", "confident", "relatable"], "language": "en", "source": {"video_title": "Ibai Stream", "youtube_url": "https://www.youtube.com/@ibai"}},
+    {"id": "ibai_011", "text": "The biggest events in Spanish esports happen on Twitch now. That is insane.", "tags": ["deep", "community", "iconic", "gaming"], "language": "en", "source": {"video_title": "Ibai Interview", "youtube_url": "https://www.youtube.com/@ibai"}},
+    {"id": "ibai_012", "text": "My mental health comes before any stream. Always.", "tags": ["honest", "deep", "mental-health", "life-advice"], "language": "en", "source": {"video_title": "Ibai Mental Health Statement", "youtube_url": "https://www.youtube.com/@ibai"}},
+    {"id": "ibai_013", "text": "I never took myself too seriously. That is the secret.", "tags": ["funny", "wise", "honest", "life-advice"], "language": "en", "source": {"video_title": "Ibai Interview", "youtube_url": "https://www.youtube.com/@ibai"}},
+    {"id": "ibai_014", "text": "Caster, streamer, promoter, owner. I just do what feels right next.", "tags": ["honest", "motivational", "deep", "identity"], "language": "en", "source": {"video_title": "Ibai Interview", "youtube_url": "https://www.youtube.com/@ibai"}},
+    {"id": "ibai_015", "text": "If you make people feel included they will never leave.", "tags": ["deep", "wisdom", "community", "life-advice"], "language": "en", "source": {"video_title": "Ibai Creator Advice", "youtube_url": "https://www.youtube.com/@ibai"}},
+    {"id": "ibai_016", "text": "Hosting world-class boxing in Spain because streamers said why not. Why not always works.", "tags": ["motivational", "iconic", "funny", "deep"], "language": "en", "source": {"video_title": "Ibai La Velada", "youtube_url": "https://www.youtube.com/@ibai"}},
+    {"id": "ibai_017", "text": "My grandfather watches my streams. That means everything.", "tags": ["heartfelt", "emotional", "family", "honest"], "language": "en", "source": {"video_title": "Ibai Stream Moments", "youtube_url": "https://www.youtube.com/@ibai"}},
+    {"id": "ibai_018", "text": "I want to break every ceiling Spanish creators were told existed.", "tags": ["motivational", "powerful", "identity", "deep"], "language": "en", "source": {"video_title": "Ibai Interview", "youtube_url": "https://www.youtube.com/@ibai"}},
+    {"id": "ibai_019", "text": "Good vibes are not just a mood. They are a strategy.", "tags": ["funny", "deep", "wisdom", "community"], "language": "en", "source": {"video_title": "Ibai Stream", "youtube_url": "https://www.youtube.com/@ibai"}},
+    {"id": "ibai_020", "text": "Hasta luego, crack.", "tags": ["iconic", "outro", "spanish", "catchphrase"], "language": "es", "source": {"video_title": "Ibai Stream Outro", "youtube_url": "https://www.youtube.com/@ibai"}}
+  ]
+}

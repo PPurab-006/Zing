@@ -1,0 +1,27 @@
+{
+  "creator_id": "vanossgaming",
+  "creator_name": "VanossGaming",
+  "category": "youtuber",
+  "quotes": [
+    {"id": "vanoss_001", "text": "Hoodini!", "tags": ["iconic", "funny", "catchphrase"], "language": "en", "source": {"video_title": "VanossGaming Gmod Prop Hunt", "youtube_url": "https://www.youtube.com/@VanossGaming"}},
+    {"id": "vanoss_002", "text": "Keep er' goin'!", "tags": ["iconic", "funny", "catchphrase"], "language": "en", "source": {"video_title": "VanossGaming Compilation", "youtube_url": "https://www.youtube.com/@VanossGaming"}},
+    {"id": "vanoss_003", "text": "ALRIGHT!", "tags": ["iconic", "funny", "reaction"], "language": "en", "source": {"video_title": "VanossGaming Moments", "youtube_url": "https://www.youtube.com/@VanossGaming"}},
+    {"id": "vanoss_004", "text": "Dudu dudu banana bus!", "tags": ["iconic", "funny", "community", "gta"], "language": "en", "source": {"video_title": "VanossGaming GTA 5", "youtube_url": "https://www.youtube.com/@VanossGaming"}},
+    {"id": "vanoss_005", "text": "Introducing thug owl.", "tags": ["iconic", "funny", "gta"], "language": "en", "source": {"video_title": "VanossGaming GTA 5", "youtube_url": "https://www.youtube.com/@VanossGaming"}},
+    {"id": "vanoss_006", "text": "Looking good piggy!", "tags": ["funny", "iconic", "gta"], "language": "en", "source": {"video_title": "VanossGaming GTA 5", "youtube_url": "https://www.youtube.com/@VanossGaming"}},
+    {"id": "vanoss_007", "text": "Oh my god, he's got a gun!", "tags": ["funny", "iconic", "reaction", "gaming"], "language": "en", "source": {"video_title": "VanossGaming Funny Moments", "youtube_url": "https://www.youtube.com/@VanossGaming"}},
+    {"id": "vanoss_008", "text": "That's not how any of this works!", "tags": ["funny", "relatable", "gaming"], "language": "en", "source": {"video_title": "VanossGaming Moments", "youtube_url": "https://www.youtube.com/@VanossGaming"}},
+    {"id": "vanoss_009", "text": "I have no idea what I'm doing and I love it.", "tags": ["funny", "relatable", "chaos"], "language": "en", "source": {"video_title": "VanossGaming Compilation", "youtube_url": "https://www.youtube.com/@VanossGaming"}},
+    {"id": "vanoss_010", "text": "This is fine. Everything is fine.", "tags": ["funny", "relatable", "iconic"], "language": "en", "source": {"video_title": "VanossGaming Moments", "youtube_url": "https://www.youtube.com/@VanossGaming"}},
+    {"id": "vanoss_011", "text": "We're all going to die and I'm completely okay with that.", "tags": ["funny", "chaos", "gaming"], "language": "en", "source": {"video_title": "VanossGaming Compilation", "youtube_url": "https://www.youtube.com/@VanossGaming"}},
+    {"id": "vanoss_012", "text": "The plan worked perfectly. Somehow.", "tags": ["funny", "iconic", "gaming"], "language": "en", "source": {"video_title": "VanossGaming GTA", "youtube_url": "https://www.youtube.com/@VanossGaming"}},
+    {"id": "vanoss_013", "text": "Nobody expects the banana bus squad.", "tags": ["iconic", "funny", "community"], "language": "en", "source": {"video_title": "VanossGaming GTA 5", "youtube_url": "https://www.youtube.com/@VanossGaming"}},
+    {"id": "vanoss_014", "text": "Friendship is just a series of near-death experiences and it's beautiful.", "tags": ["funny", "deep", "friendship", "community"], "language": "en", "source": {"video_title": "VanossGaming Moments", "youtube_url": "https://www.youtube.com/@VanossGaming"}},
+    {"id": "vanoss_015", "text": "If we survive this, we're getting pizza.", "tags": ["funny", "relatable", "gaming"], "language": "en", "source": {"video_title": "VanossGaming Compilation", "youtube_url": "https://www.youtube.com/@VanossGaming"}},
+    {"id": "vanoss_016", "text": "I trusted you and you drove me off a cliff. That's friendship.", "tags": ["funny", "friendship", "iconic"], "language": "en", "source": {"video_title": "VanossGaming GTA 5", "youtube_url": "https://www.youtube.com/@VanossGaming"}},
+    {"id": "vanoss_017", "text": "The only difference between a disaster and an adventure is attitude.", "tags": ["deep", "funny", "life-advice"], "language": "en", "source": {"video_title": "VanossGaming Moments", "youtube_url": "https://www.youtube.com/@VanossGaming"}},
+    {"id": "vanoss_018", "text": "Why did I think that would work? Better question: why did it?", "tags": ["funny", "relatable", "chaos"], "language": "en", "source": {"video_title": "VanossGaming Compilation", "youtube_url": "https://www.youtube.com/@VanossGaming"}},
+    {"id": "vanoss_019", "text": "Some people make plans. We make memories.", "tags": ["funny", "community", "friendship"], "language": "en", "source": {"video_title": "VanossGaming Moments", "youtube_url": "https://www.youtube.com/@VanossGaming"}},
+    {"id": "vanoss_020", "text": "Life's short, drive fast, and never look back unless someone's chasing you.", "tags": ["funny", "iconic", "gta", "relatable"], "language": "en", "source": {"video_title": "VanossGaming GTA 5", "youtube_url": "https://www.youtube.com/@VanossGaming"}}
+  ]
+}

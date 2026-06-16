@@ -1,0 +1,27 @@
+{
+  "creator_id": "mkbhd",
+  "creator_name": "MKBHD",
+  "category": "youtuber",
+  "quotes": [
+    {"id": "mk_001", "text": "As you guys know, I am Marques Brownlee, also known as MKBHD.", "tags": ["iconic", "intro", "catchphrase"], "language": "en", "source": {"video_title": "MKBHD Video", "youtube_url": "https://www.youtube.com/@mkbhd"}},
+    {"id": "mk_002", "text": "Quality is remembered long after price is forgotten.", "tags": ["deep", "wisdom", "iconic", "life-advice"], "language": "en", "source": {"video_title": "MKBHD Interview", "youtube_url": "https://www.youtube.com/@mkbhd"}},
+    {"id": "mk_003", "text": "I started making videos at 15 in my bedroom. The gear was bad. The passion was not.", "tags": ["motivational", "honest", "heartfelt", "relatable"], "language": "en", "source": {"video_title": "MKBHD Origin Story", "youtube_url": "https://www.youtube.com/@mkbhd"}},
+    {"id": "mk_004", "text": "The best camera is the one you have with you.", "tags": ["wisdom", "creative", "iconic", "life-advice"], "language": "en", "source": {"video_title": "MKBHD Photography Tips", "youtube_url": "https://www.youtube.com/@mkbhd"}},
+    {"id": "mk_005", "text": "Technology should serve humans. Not the other way around.", "tags": ["deep", "wisdom", "iconic", "tech"], "language": "en", "source": {"video_title": "MKBHD Interview", "youtube_url": "https://www.youtube.com/@mkbhd"}},
+    {"id": "mk_006", "text": "I never chased subscribers. I chased quality. The subscribers followed.", "tags": ["motivational", "deep", "honest", "life-advice"], "language": "en", "source": {"video_title": "MKBHD Interview", "youtube_url": "https://www.youtube.com/@mkbhd"}},
+    {"id": "mk_007", "text": "This is my wallpaper of the week.", "tags": ["iconic", "funny", "catchphrase", "community"], "language": "en", "source": {"video_title": "MKBHD Video", "youtube_url": "https://www.youtube.com/@mkbhd"}},
+    {"id": "mk_008", "text": "Being a Black creator in tech spaces means you represent more than yourself. I take that seriously.", "tags": ["deep", "identity", "honest", "powerful"], "language": "en", "source": {"video_title": "MKBHD Interview", "youtube_url": "https://www.youtube.com/@mkbhd"}},
+    {"id": "mk_009", "text": "Great design is invisible. You only notice bad design.", "tags": ["deep", "wisdom", "tech", "iconic"], "language": "en", "source": {"video_title": "MKBHD Design Video", "youtube_url": "https://www.youtube.com/@mkbhd"}},
+    {"id": "mk_010", "text": "I have reviewed every iPhone since the iPhone 4. That is either dedication or a problem.", "tags": ["funny", "iconic", "relatable", "honest"], "language": "en", "source": {"video_title": "MKBHD iPhone Review", "youtube_url": "https://www.youtube.com/@mkbhd"}},
+    {"id": "mk_011", "text": "The upgrade cycle is real. But knowing when NOT to upgrade is wisdom.", "tags": ["deep", "wisdom", "funny", "life-advice"], "language": "en", "source": {"video_title": "MKBHD Video", "youtube_url": "https://www.youtube.com/@mkbhd"}},
+    {"id": "mk_012", "text": "Perfection takes time. Good enough ships.", "tags": ["deep", "creative", "wisdom", "life-advice"], "language": "en", "source": {"video_title": "MKBHD Interview", "youtube_url": "https://www.youtube.com/@mkbhd"}},
+    {"id": "mk_013", "text": "If the vibes are off, the review will reflect that.", "tags": ["funny", "iconic", "honest", "relatable"], "language": "en", "source": {"video_title": "MKBHD Review", "youtube_url": "https://www.youtube.com/@mkbhd"}},
+    {"id": "mk_014", "text": "YouTube gave me a scholarship, a career, and a purpose. I do not take that lightly.", "tags": ["heartfelt", "honest", "deep", "emotional"], "language": "en", "source": {"video_title": "MKBHD Interview", "youtube_url": "https://www.youtube.com/@mkbhd"}},
+    {"id": "mk_015", "text": "The specs do not matter if the experience is bad.", "tags": ["deep", "wisdom", "tech", "iconic"], "language": "en", "source": {"video_title": "MKBHD Review", "youtube_url": "https://www.youtube.com/@mkbhd"}},
+    {"id": "mk_016", "text": "I play tennis because it teaches me the same thing YouTube does — you only get better by showing up.", "tags": ["motivational", "deep", "life-advice", "honest"], "language": "en", "source": {"video_title": "MKBHD Interview", "youtube_url": "https://www.youtube.com/@mkbhd"}},
+    {"id": "mk_017", "text": "Your first video will be bad. Make it anyway.", "tags": ["motivational", "creative", "honest", "life-advice"], "language": "en", "source": {"video_title": "MKBHD Creator Advice", "youtube_url": "https://www.youtube.com/@mkbhd"}},
+    {"id": "mk_018", "text": "The phone market moves fast. So do I.", "tags": ["iconic", "funny", "confident", "tech"], "language": "en", "source": {"video_title": "MKBHD Video", "youtube_url": "https://www.youtube.com/@mkbhd"}},
+    {"id": "mk_019", "text": "Black excellence is not an exception. It is a standard.", "tags": ["powerful", "deep", "identity", "motivational"], "language": "en", "source": {"video_title": "MKBHD Interview", "youtube_url": "https://www.youtube.com/@mkbhd"}},
+    {"id": "mk_020", "text": "That is going to do it for this one. MKBHD out.", "tags": ["iconic", "outro", "catchphrase", "legendary"], "language": "en", "source": {"video_title": "MKBHD Outro", "youtube_url": "https://www.youtube.com/@mkbhd"}}
+  ]
+}

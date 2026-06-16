@@ -1,0 +1,27 @@
+{
+  "creator_id": "dantdm",
+  "creator_name": "DanTDM",
+  "category": "youtuber",
+  "quotes": [
+    {"id": "dan_001", "text": "Hello everyone, my name is DanTDM and welcome back!", "tags": ["iconic", "intro", "catchphrase"], "language": "en", "source": {"video_title": "DanTDM Video", "youtube_url": "https://www.youtube.com/@DanTDM"}},
+    {"id": "dan_002", "text": "Grim, we've got work to do.", "tags": ["iconic", "funny", "gaming", "catchphrase"], "language": "en", "source": {"video_title": "DanTDM Minecraft", "youtube_url": "https://www.youtube.com/@DanTDM"}},
+    {"id": "dan_003", "text": "I never imagined my bedroom videos would lead to arenas. Life is full of surprises.", "tags": ["heartfelt", "emotional", "honest", "motivational"], "language": "en", "source": {"video_title": "DanTDM Interview", "youtube_url": "https://www.youtube.com/@DanTDM"}},
+    {"id": "dan_004", "text": "Being a role model for kids is something I take seriously every single day.", "tags": ["deep", "honest", "community", "heartfelt"], "language": "en", "source": {"video_title": "DanTDM Interview", "youtube_url": "https://www.youtube.com/@DanTDM"}},
+    {"id": "dan_005", "text": "I wanted to make videos kids could watch with their parents. Something clean, something fun.", "tags": ["heartfelt", "honest", "deep", "community"], "language": "en", "source": {"video_title": "DanTDM Interview", "youtube_url": "https://www.youtube.com/@DanTDM"}},
+    {"id": "dan_006", "text": "My audience grew up watching me. And I grew up with them.", "tags": ["emotional", "deep", "community", "heartfelt"], "language": "en", "source": {"video_title": "DanTDM Reflection", "youtube_url": "https://www.youtube.com/@DanTDM"}},
+    {"id": "dan_007", "text": "Let's go!", "tags": ["iconic", "funny", "catchphrase", "gaming"], "language": "en", "source": {"video_title": "DanTDM Moments", "youtube_url": "https://www.youtube.com/@DanTDM"}},
+    {"id": "dan_008", "text": "Mental health is real. Taking a break is not quitting.", "tags": ["deep", "mental-health", "honest", "motivational"], "language": "en", "source": {"video_title": "DanTDM Mental Health", "youtube_url": "https://www.youtube.com/@DanTDM"}},
+    {"id": "dan_009", "text": "The kids who watched me at 8 are teenagers now. That is wild to think about.", "tags": ["emotional", "deep", "community", "honest"], "language": "en", "source": {"video_title": "DanTDM Reflection", "youtube_url": "https://www.youtube.com/@DanTDM"}},
+    {"id": "dan_010", "text": "Creativity has no age limit. Start making. Start now.", "tags": ["motivational", "life-advice", "creative", "deep"], "language": "en", "source": {"video_title": "DanTDM Interview", "youtube_url": "https://www.youtube.com/@DanTDM"}},
+    {"id": "dan_011", "text": "Minecraft taught me that you can build anything if you are patient enough.", "tags": ["deep", "gaming", "life-advice", "wisdom"], "language": "en", "source": {"video_title": "DanTDM Minecraft", "youtube_url": "https://www.youtube.com/@DanTDM"}},
+    {"id": "dan_012", "text": "I am not perfect. I just try to be consistent and kind.", "tags": ["honest", "heartfelt", "life-advice", "deep"], "language": "en", "source": {"video_title": "DanTDM Interview", "youtube_url": "https://www.youtube.com/@DanTDM"}},
+    {"id": "dan_013", "text": "Never stop being curious. Curiosity is what keeps life interesting.", "tags": ["motivational", "wisdom", "deep", "life-advice"], "language": "en", "source": {"video_title": "DanTDM Speech", "youtube_url": "https://www.youtube.com/@DanTDM"}},
+    {"id": "dan_014", "text": "Selling out arenas felt surreal. I still feel like the guy in his bedroom sometimes.", "tags": ["honest", "heartfelt", "relatable", "emotional"], "language": "en", "source": {"video_title": "DanTDM Tour", "youtube_url": "https://www.youtube.com/@DanTDM"}},
+    {"id": "dan_015", "text": "Family first. Always. No subscriber count changes that.", "tags": ["deep", "family", "honest", "life-advice"], "language": "en", "source": {"video_title": "DanTDM Interview", "youtube_url": "https://www.youtube.com/@DanTDM"}},
+    {"id": "dan_016", "text": "Playing games for a living sounds like a dream. It is. Never forget how lucky that is.", "tags": ["heartfelt", "honest", "gratitude", "deep"], "language": "en", "source": {"video_title": "DanTDM Reflection", "youtube_url": "https://www.youtube.com/@DanTDM"}},
+    {"id": "dan_017", "text": "I got a Guinness World Record. My mum was more excited than I was.", "tags": ["funny", "heartfelt", "family", "iconic"], "language": "en", "source": {"video_title": "DanTDM World Record", "youtube_url": "https://www.youtube.com/@DanTDM"}},
+    {"id": "dan_018", "text": "Be kind online. The world has enough cruelty.", "tags": ["deep", "community", "life-advice", "heartfelt"], "language": "en", "source": {"video_title": "DanTDM Stream", "youtube_url": "https://www.youtube.com/@DanTDM"}},
+    {"id": "dan_019", "text": "I make videos for kids but honestly adults love them too. Joy has no age.", "tags": ["funny", "heartfelt", "deep", "community"], "language": "en", "source": {"video_title": "DanTDM Interview", "youtube_url": "https://www.youtube.com/@DanTDM"}},
+    {"id": "dan_020", "text": "See you in the next one!", "tags": ["iconic", "outro", "catchphrase", "community"], "language": "en", "source": {"video_title": "DanTDM Outro", "youtube_url": "https://www.youtube.com/@DanTDM"}}
+  ]
+}
